@@ -1,0 +1,5 @@
+python 3.10
+
+pip install pystyle
+
+not normally needed : pip install os
